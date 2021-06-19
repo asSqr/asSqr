@@ -2,6 +2,9 @@
   <img align="left" width="812px" src="https://raw.githubusercontent.com/asSqr/asSqr/master/profile-summary-card-output/default/0-profile-details.svg" />
 </a>
 <a href="https://github.com/asSqr">
+  <img align="left" width="812px" src="https://raw.githubusercontent.com/asSqr/asSqr/master/profile-summary-card-output/default/4-productive-time.svg" />
+</a>
+<a href="https://github.com/asSqr">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=asSqr&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/asSqr">
