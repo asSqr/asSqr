@@ -43,24 +43,16 @@ Hi, I'm **As_sqr** . I'm a backend engineer. I write Java(Spring Boot), Python(D
 ## ❯ gh stats
 
 <div align="center">
-  <a href="https://github.com/asSqr">
-    <img align="left" width="812px" src="https://raw.githubusercontent.com/asSqr/asSqr/master/profile-summary-card-output/github/0-profile-details.svg" />
-  </a>
+  <img width="812px" src="https://raw.githubusercontent.com/asSqr/asSqr/master/profile-summary-card-output/github/0-profile-details.svg" />
 </div>
 <div align="center">
-  <a href="https://github.com/asSqr">
-    <img align="left" width="812px" src="https://raw.githubusercontent.com/asSqr/asSqr/master/profile-summary-card-output/github/4-productive-time.svg" />
-  </a>
+  <img width="812px" src="https://raw.githubusercontent.com/asSqr/asSqr/master/profile-summary-card-output/github/4-productive-time.svg" />
 </div>
-<div align="center" style="display: inline-block;">
-  <a href="https://github.com/asSqr">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=asSqr&count_private=true&show_icons=true" />
-  </a>
+<div align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=asSqr&count_private=true&show_icons=true" />
 </div>
-<div align="center" style="display: inline-block; margin-bottom: 15px;">
-  <a href="https://github.com/asSqr">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asSqr&layout=compact&show_icons=true" />
-  </a>
+<div align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asSqr&layout=compact&show_icons=true" />
 </div>
 
 
