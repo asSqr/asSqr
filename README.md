@@ -57,11 +57,12 @@ Hi, I'm **As_sqr** . I'm a backend engineer. I write Java(Spring Boot), Python(D
     <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=asSqr&count_private=true&show_icons=true" />
   </a>
 </div>
-<div align="center" style="display: inline-block;">
+<div align="center" style="display: inline-block; margin-bottom: 15px;">
   <a href="https://github.com/asSqr">
     <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asSqr&layout=compact&show_icons=true" />
   </a>
 </div>
+
 
 ## ❯ cat CREDITS
 
