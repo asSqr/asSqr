@@ -17,7 +17,7 @@ Hi, I'm **As_sqr** . I'm a backend engineer. I write Java(Spring Boot), Python(D
 </div>
 
 <div align="center">
-<img src="https://typograssy.deno.dev/api?text=%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%81%A8%E3%82%8A%E3%81%95%E3%82%93%E3%81%A7%E3%81%99%E3%80%82&l1=c5cae9&l2=7986cb&l3=aab2da&l4=1a237e&frame=7986cb&speed=100" />
+<img src="https://typograssy.deno.dev/api?text=%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%81%A8%E3%82%8A%E3%81%95%E3%82%93%E3%81%A7%E3%81%99%E3%80%82&l1=6cc644&l2=6cc644&l3=6cc644&l4=fdb933&frame=7986cb&speed=100" />
 </div>
 
 ## ❯ echo $LANG
@@ -42,7 +42,26 @@ Hi, I'm **As_sqr** . I'm a backend engineer. I write Java(Spring Boot), Python(D
 
 ## ❯ gh stats
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asSqr&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord&show_icons=ture&bg_color=1e2137&icon_color=e2a478&text_color=abb0c9&title_color=84a0c6&count_private=ture" alt="asSqr" href="https://github.com/asSqr" /></div>
+<div align="center">
+  <a href="https://github.com/asSqr">
+    <img align="left" width="812px" src="https://raw.githubusercontent.com/asSqr/asSqr/master/profile-summary-card-output/github/0-profile-details.svg" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/asSqr">
+    <img align="left" width="812px" src="https://raw.githubusercontent.com/asSqr/asSqr/master/profile-summary-card-output/github/4-productive-time.svg" />
+  </a>
+</div>
+<div align="center" style="display: inline-block;">
+  <a href="https://github.com/asSqr">
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=asSqr&count_private=true&show_icons=true" />
+  </a>
+</div>
+<div align="center" style="display: inline-block;">
+  <a href="https://github.com/asSqr">
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asSqr&layout=compact&show_icons=true" />
+  </a>
+</div>
 
 ## ❯ cat CREDITS
 
