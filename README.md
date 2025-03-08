@@ -17,7 +17,7 @@ Hi, I'm **As_sqr** . I'm a backend engineer. I write Java(Spring Boot), Python(D
 </div>
 
 <div align="center">
-<img src="https://typograssy.deno.dev/api?text=%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%81%A8%E3%82%8A%E3%81%95%E3%82%93%E3%81%A7%E3%81%99%E3%80%82&l1=6cc644&l2=6cc644&l3=6cc644&l4=fdb933&frame=7986cb&speed=100" />
+<img src="https://typograssy.deno.dev/api?text=Software%20Developer&l1=6cc644&l2=6cc644&l3=6cc644&l4=fdb933&frame=7986cb&speed=100" />
 </div>
 
 ## ❯ echo $LANG
